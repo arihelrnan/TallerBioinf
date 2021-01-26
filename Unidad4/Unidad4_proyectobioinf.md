@@ -171,6 +171,7 @@ Jupyter Notebooks:
 
 Comparisons of microbiomes compositions:
 * [Problems with colors in Heat_tree_matrix](https://github.com/arihelrnan/Endophyte_microbiome_Vanilla_planifolia/issues/4) Ariel
+* [Problem with make a deseq object from phyloseq object](https://github.com/arihelrnan/Endophyte_microbiome_Vanilla_planifolia/issues/13) Ariel 
 
 
 Differential Expression Analysis 
